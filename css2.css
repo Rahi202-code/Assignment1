@@ -365,14 +365,7 @@ header>button:hover {
   }
 
 
-  /* styles.css */
-body {
-    font-family: Arial, sans-serif;
-    
-    background-color: #f9f9f9;
-    color: #333;
-    text-align: center;
-  }
+
   
   h2 {
     font-size: 24px;
@@ -382,12 +375,12 @@ body {
   
   p {
     font-size: 16px;
-    color: #666;
+    color: #000000;
     margin-bottom: 20px;
   }
   
   .donate-section, .subscribe-section {
-    background-color: #f5f5f5;
+    background-color: #b5b8b4;
     padding: 40px;
     margin: 20px auto;
     border-radius: 8px;
@@ -406,7 +399,7 @@ body {
   .donation-option {
     
     border-radius: 5px;
-    background-color: #fff;
+    background-color: #aaa4a4;
     
     font-size: 16px;
     padding: 10px 20px;
@@ -444,13 +437,13 @@ body {
   .subscribe-section{
 
 
-background-color: #9ed5a1;
+background-color: #c0e2c2;
 
 
   }
   
   .donate-now:hover {
-    background-color: #026b08;
+    background-color: #000000;
   }
   
   .subscribe-form {
@@ -471,7 +464,7 @@ background-color: #9ed5a1;
   .subscribe-button {
     padding: 10px 20px;
     background-color: #03930c;
-    color: #fff;
+    color: #fdf4f4;
     border: none;
     border-radius: 5px;
     font-size: 16px;
